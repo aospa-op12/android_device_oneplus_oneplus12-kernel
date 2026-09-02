@@ -84,11 +84,7 @@ for MODULE_FOLDER in "${MODULE_FOLDERS[@]}"; do
     fi
     [ -d "${MODULE_SRC}" ] || break
     if [ "${MODULE_FOLDER}" == "system_dlkm" ]; then
-        cp -r "${MODULE_SRC}/flatten/." "${MY_DIR}/${MODULE_FOLDER}/flatten/"
         cp -r "${MODULE_SRC}/lib/." "${MY_DIR}/${MODULE_FOLDER}/lib/"
-        find "${MODULE_SRC}/flatten/" "${MODULE_SRC}/lib/." -type f \
-            -exec printf "  - ${MODULE_FOLDER}/" \; \
-            -exec realpath --relative-to="${MODULE_SRC}" {} \;
     else
         find "${MODULE_SRC}/lib/modules" -type f \
             -exec cp {} "${MY_DIR}/${MODULE_FOLDER}/" \; \

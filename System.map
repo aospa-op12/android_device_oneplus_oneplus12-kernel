@@ -67378,10 +67378,10 @@ ffffffc0094e71c5 d task_index_to_char.state_char
 ffffffc0094e71c5 d task_index_to_char.state_char
 ffffffc0094e71c5 d task_index_to_char.state_char
 ffffffc0094e71c5 d task_index_to_char.state_char
-ffffffc009502f5b d max_tt_usecs
-ffffffc009522976 d f_midi_longname
-ffffffc00956536f d trunc_msg
-ffffffc00956894b d pty_line_name.ptychar
+ffffffc009502f71 d max_tt_usecs
+ffffffc00952298c d f_midi_longname
+ffffffc00956539b d trunc_msg
+ffffffc009568977 d pty_line_name.ptychar
 ffffffc0095b33a8 d rh_string.langids
 ffffffc0095b33e0 d mt_slots
 ffffffc0095b33f8 d mt_min_slots

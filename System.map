@@ -67695,11 +67695,11 @@ ffffffc009479dd8 D kallsyms_seqs_of_names
 ffffffc0094cb2b8 D kallsyms_token_table
 ffffffc0094cb658 D kallsyms_token_index
 ffffffc0094e7650 d f_midi_shortname
-ffffffc0094facc3 d task_index_to_char.state_char
-ffffffc0094facc3 d task_index_to_char.state_char
-ffffffc0094facc3 d task_index_to_char.state_char
-ffffffc0094facc3 d task_index_to_char.state_char
-ffffffc0095172bb d max_tt_usecs
+ffffffc0094fac8a d task_index_to_char.state_char
+ffffffc0094fac8a d task_index_to_char.state_char
+ffffffc0094fac8a d task_index_to_char.state_char
+ffffffc0094fac8a d task_index_to_char.state_char
+ffffffc009517298 d max_tt_usecs
 ffffffc009537809 d f_midi_longname
 ffffffc00957b97e d trunc_msg
 ffffffc00957ef5a d pty_line_name.ptychar

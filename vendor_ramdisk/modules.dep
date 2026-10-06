@@ -104,7 +104,6 @@
 /lib/modules/iommu-logger.ko:
 /lib/modules/msm_geni_serial.ko: /lib/modules/qcom_ipc_logging.ko /lib/modules/minidump.ko /lib/modules/qcom_dma_heaps.ko /lib/modules/msm_dma_iommu_mapping.ko /lib/modules/mem_buf_dev.ko /lib/modules/gh_mem_notifier.ko /lib/modules/secure_buffer.ko /lib/modules/qcom-scm.ko /lib/modules/gh_rm_drv.ko /lib/modules/gh_dbl.ko /lib/modules/gh_msgq.ko /lib/modules/gh_arm_drv.ko /lib/modules/smem.ko /lib/modules/qcom_hwspinlock.ko /lib/modules/debug_symbol.ko
 /lib/modules/phy-msm-ssusb-qmp.ko:
-/lib/modules/mem-offline.ko:
 /lib/modules/qcom-pmu-lib.ko: /lib/modules/qcom_llcc_pmu.ko /lib/modules/qcom_scmi_client.ko
 /lib/modules/tmecom-intf.ko:
 /lib/modules/reboot-mode.ko:
@@ -181,7 +180,7 @@
 /lib/modules/stm_core.ko:
 /lib/modules/bwmon.ko: /lib/modules/qcom-dcvs.ko /lib/modules/dcvs_fp.ko /lib/modules/qcom_rpmh.ko /lib/modules/cmd-db.ko /lib/modules/crm.ko /lib/modules/qcom_ipc_logging.ko /lib/modules/minidump.ko /lib/modules/qcom_dma_heaps.ko /lib/modules/msm_dma_iommu_mapping.ko /lib/modules/mem_buf_dev.ko /lib/modules/gh_mem_notifier.ko /lib/modules/secure_buffer.ko /lib/modules/qcom-scm.ko /lib/modules/gh_rm_drv.ko /lib/modules/gh_dbl.ko /lib/modules/gh_msgq.ko /lib/modules/gh_arm_drv.ko /lib/modules/smem.ko /lib/modules/qcom_hwspinlock.ko /lib/modules/debug_symbol.ko
 /lib/modules/oplus_sensor_feedback.ko: /lib/modules/kernel_fb.ko /lib/modules/smem.ko /lib/modules/qcom_hwspinlock.ko
-/lib/modules/dmesg_dumper.ko: /lib/modules/gh_panic_notifier.ko /lib/modules/gunyah_loader.ko /lib/modules/mdt_loader.ko /lib/modules/minidump.ko /lib/modules/qcom_dma_heaps.ko /lib/modules/msm_dma_iommu_mapping.ko /lib/modules/mem_buf_dev.ko /lib/modules/gh_mem_notifier.ko /lib/modules/secure_buffer.ko /lib/modules/qcom-scm.ko /lib/modules/gh_rm_drv.ko /lib/modules/gh_dbl.ko /lib/modules/gh_msgq.ko /lib/modules/gh_arm_drv.ko /lib/modules/smem.ko /lib/modules/qcom_hwspinlock.ko /lib/modules/debug_symbol.ko
+/lib/modules/dmesg_dumper.ko: /lib/modules/gh_panic_notifier.ko /lib/modules/gunyah_loader.ko /lib/modules/mdt_loader.ko /lib/modules/qcom-scm.ko /lib/modules/gh_rm_drv.ko /lib/modules/gh_dbl.ko /lib/modules/gh_msgq.ko /lib/modules/gh_arm_drv.ko
 /lib/modules/qrtr.ko: /lib/modules/qcom_ipc_logging.ko /lib/modules/minidump.ko /lib/modules/qcom_dma_heaps.ko /lib/modules/msm_dma_iommu_mapping.ko /lib/modules/mem_buf_dev.ko /lib/modules/gh_mem_notifier.ko /lib/modules/secure_buffer.ko /lib/modules/qcom-scm.ko /lib/modules/gh_rm_drv.ko /lib/modules/gh_dbl.ko /lib/modules/gh_msgq.ko /lib/modules/gh_arm_drv.ko /lib/modules/smem.ko /lib/modules/qcom_hwspinlock.ko /lib/modules/debug_symbol.ko
 /lib/modules/si_haptic.ko: /lib/modules/haptic_feedback.ko /lib/modules/kernel_fb.ko /lib/modules/boot_mode.ko /lib/modules/oplus_charger_present.ko /lib/modules/oplusboot.ko /lib/modules/oplus_ftm_mode.ko
 /lib/modules/oplus_bsp_fw_update.ko:

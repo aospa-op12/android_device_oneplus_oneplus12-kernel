@@ -2028,6 +2028,8 @@ alias of:N*T*Cqcom,pmr735b-gpio pinctrl_spmi_gpio
 alias of:N*T*Cqcom,pmr735b-gpioC* pinctrl_spmi_gpio
 alias of:N*T*Cqcom,pms405-gpio pinctrl_spmi_gpio
 alias of:N*T*Cqcom,pms405-gpioC* pinctrl_spmi_gpio
+alias of:N*T*Cqcom,pmw6100-gpio pinctrl_spmi_gpio
+alias of:N*T*Cqcom,pmw6100-gpioC* pinctrl_spmi_gpio
 alias of:N*T*Cqcom,pmx55-gpio pinctrl_spmi_gpio
 alias of:N*T*Cqcom,pmx55-gpioC* pinctrl_spmi_gpio
 alias of:N*T*Cqcom,pmx65-gpio pinctrl_spmi_gpio

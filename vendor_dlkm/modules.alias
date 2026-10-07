@@ -1336,8 +1336,6 @@ alias of:N*T*Cqcom,usb-ssphy-qmp-dp-combo-fw-managed phy_msm_ssusb_qmp
 alias of:N*T*Cqcom,usb-ssphy-qmp-dp-combo-fw-managedC* phy_msm_ssusb_qmp
 alias of:N*T*Cqcom,usb-ssphy-qmp-usb3-or-dp phy_msm_ssusb_qmp
 alias of:N*T*Cqcom,usb-ssphy-qmp-usb3-or-dpC* phy_msm_ssusb_qmp
-alias of:N*T*Cqcom,mem-offline mem_offline
-alias of:N*T*Cqcom,mem-offlineC* mem_offline
 alias of:N*T*Cqcom,kgsl-3d0 msm_kgsl
 alias of:N*T*Cqcom,kgsl-3d0C* msm_kgsl
 alias net-pf-31 bluetooth
